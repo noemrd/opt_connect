@@ -2,7 +2,6 @@
 """
 This module connects to the optconnect API to collect a single day's cellular usage summary
 which it then stores in the PostgreSQL database for reporting and analysis by others.
-See also: ENG-61
 """
 
 import json
